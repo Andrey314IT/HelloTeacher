@@ -1,1 +1,2 @@
-# HelloTeacher
+color("Green")
+print("Hello Teacher!")
